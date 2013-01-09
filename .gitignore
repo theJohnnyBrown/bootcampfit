@@ -44,3 +44,4 @@ cookies.txt
 # uploaded files
 djangotalent/media
 *.dump
+domains.txt
