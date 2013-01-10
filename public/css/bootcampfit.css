@@ -4,5 +4,42 @@
 }
 
 body{
-    background: url('/img/Rippedathlete.jpg') #2F2F2F repeat-x;
+    /* background: url('/img/Rippedathlete.jpg') #2F2F2F repeat-x; */
+    background: url('/img/Rippedathlete.jpg') #fff repeat-x;
 }
+
+#head-img {
+    height: 400px;
+    background-image: url('/img/head3.jpg');
+    /* margin-left: 0; */
+    /* padding-left: 30px; */
+    /* width: 640px; */
+    -webkit-box-shadow: 0 4px 8px rgba(0,0,0,.85);
+    -moz-box-shadow: 0 4px 8px rgba(0,0,0,.85);
+    box-shadow: 0 4px 8px rgba(0,0,0,.85);
+}
+
+#head-img p {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+/* #head-img p:first-child { */
+/*     margin-top: 315px; */
+/* } */
+
+/* #head-img a { */
+/*     color: black; */
+/* } */
+
+#get-fit .page-header {
+    border: none;
+}
+
+.sidebar img {
+    margin-bottom: 10px;
+}
+
+/* #headcopy { */
+/*     padding-right: 15px; */
+/* } */
