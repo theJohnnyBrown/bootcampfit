@@ -2,3 +2,7 @@
 .toplevel {
     margin-top: 50px;
 }
+
+body{
+    background: url('/img/Rippedathlete.jpg') #2F2F2F repeat-x;
+}
